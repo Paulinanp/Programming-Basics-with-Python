@@ -1,6 +1,8 @@
 # Programming-Basics-with-Python
 This is repository with solution of exercises in SoftUni Programming-Basics June 2022 
+
 More about SoftUni - https://softuni.bg/
+
 - First Steps in Coding - Lab
 - First Steps in Coding - Exercise
 - First Steps in Coding - More Exercises
